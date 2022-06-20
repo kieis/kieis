@@ -46,8 +46,10 @@
 
 ## 
 
-![](https://github-readme-stats.vercel.app/api?username=kieis&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kieis&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact&langs_count=8)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kieis&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" width="40%" height="175px"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kieis&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact&langs_count=8" width="29%" height="175px"/>
+
+<br clear="both"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kieis&icon=2&color=0)](https://visitcount.itsvg.in)
