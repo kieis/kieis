@@ -10,7 +10,7 @@
 <span align="left" width="45%">💼 Looking for job as a Back-end, Front-end or Full Stack Developer.</br></span>
 <span align="left" width="45%">🗺️ I'm from Salvador, Bahia, Brazil.</br></span>
 <span align="left" width="45%">📚 Currently improving knowledge in React, React Native, NodeJS.</br></span>
-<span align="left" width="45%">🎓 Computer Engineer (9/10).</br></span>
+<span align="left" width="45%">🎓 Computer Engineer (10/10).</br></span>
 
 <br clear="both"/>
 
