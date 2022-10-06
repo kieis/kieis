@@ -7,9 +7,9 @@
 <img align="right" src="https://i.imgur.com/FHg0vfy.png" width="30%"/> 
 <h3 align="left" width="45%">About me:</h3>
 <span align="left" width="45%">🖥️ Full Stack Developer (React, Next, Node, Typescript).</br></span>
-<span align="left" width="45%">💼 Looking for job as a Back-end, Front-end or Full Stack Developer.</br></span>
+<span align="left" width="45%">💼 Currently working as Full Stack Developer at Redgtech Automação.</br></span>
 <span align="left" width="45%">🗺️ I'm from Salvador, Bahia, Brazil.</br></span>
-<span align="left" width="45%">📚 Currently improving knowledge in React, React Native, NodeJS.</br></span>
+<span align="left" width="45%">📚 Improving knowledge in React, React Native, NodeJS. Studying is never too much.</br></span>
 <span align="left" width="45%">🎓 Computer Engineer (10/10).</br></span>
 
 <br clear="both"/>
