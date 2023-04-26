@@ -9,8 +9,8 @@
 <span align="left" width="45%">🖥️ Full Stack Developer (React, Next, Node, Typescript).</br></span>
 <span align="left" width="45%">💼 Currently working as Full Stack Developer at Redgtech Automação.</br></span>
 <span align="left" width="45%">🗺️ I'm from Salvador, Bahia, Brazil.</br></span>
-<span align="left" width="45%">📚 Improving knowledge in React, React Native, NodeJS. Studying is never too much.</br></span>
-<span align="left" width="45%">🎓 Computer Engineer (10/10).</br></span>
+<span align="left" width="45%">📚 Improving knowledge in ReactJs, NextJs, React Native, NodeJs. Studying is never too much.</br></span>
+<span align="left" width="45%">🎓 Computer Engineer.</br></span>
 
 <br clear="both"/>
 
