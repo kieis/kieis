@@ -16,7 +16,7 @@
 
 ## What do i work with?
 
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://github.com/kieis?tab=repositories&q=react&type=&language=&sort=)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://github.com/kieis?tab=repositories&q=reactjs&type=&language=&sort=)
 [![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)](https://github.com/kieis?tab=repositories&q=nextjs&type=&language=&sort=)
 [![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://github.com/kieis?tab=repositories&q=react-native&type=&language=&sort=)
 [![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37)](https://github.com/kieis?tab=repositories&q=expo&type=&language=&sort=)
