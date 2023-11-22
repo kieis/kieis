@@ -21,6 +21,7 @@
 [![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://github.com/kieis?tab=repositories&q=react-native&type=&language=&sort=)
 [![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37)](https://github.com/kieis?tab=repositories&q=expo&type=&language=&sort=)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)](https://github.com/kieis?tab=repositories&q=nodejs&type=&language=&sort=)
+[![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)](https://github.com/kieis?tab=repositories&q=nestjs&type=&language=&sort=)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://github.com/kieis?tab=repositories&q=c%2B%2B&type=&language=&sort=)
 
 ## 
