@@ -26,8 +26,8 @@
 
 ## 
 
-<img align="left" src="https://github-stats-kieis.vercel.app/api?username=kieis&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="50%" height="200px"/>
-<img align="left" src="https://github-stats-kieis.vercel.app/api/top-langs/?username=kieis&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=8" width="37%" height="200px"/>
+<img align="left" src="https://github-stats-git-main-kieis.vercel.app/api?username=kieis&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="50%" height="200px"/>
+<img align="left" src="https://github-stats-git-main-kieis.vercel.app/api/top-langs/?username=kieis&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=8" width="37%" height="200px"/>
 
 <br clear="both"/>
 
