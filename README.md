@@ -6,7 +6,7 @@
 
 <img align="right" src="https://i.imgur.com/FHg0vfy.png" width="30%"/> 
 <h3 align="left" width="45%">About me:</h3>
-<span align="left" width="45%">🖥️ Full Stack Developer (React, Next, Node, Nest, Typescript).</br></span>
+<span align="left" width="45%">🖥️ Software Engineer (React, Next, Node, Nest, Typescript).</br></span>
 <span align="left" width="45%">💼 Currently working as Full Stack Developer.</br></span>
 <span align="left" width="45%">🗺️ I'm from Brazil.</br></span>
 <span align="left" width="45%">📚 Improving knowledge in Software Engineering.</br></span>
